@@ -1,5 +1,5 @@
 #### Languages:
-<img align="left" alt="dart" width="24px" src="https://api.iconify.design/logos:dart.svg?height=24" />
+<a href="https://dart.dev/" target="_blank"><img align="left" alt="dart" width="24px" src="https://api.iconify.design/logos:dart.svg?height=24" /></a>
 <img align="left" alt="kotlin" width="24px" src="https://api.iconify.design/logos:kotlin-icon.svg?height=24" />
 <img align="left" alt="python" width="24px" src="https://api.iconify.design/logos:python.svg?height=24" />
 <img align="left" alt="javascript" width="24px" src="https://api.iconify.design/logos:javascript.svg?height=24" />
