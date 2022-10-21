@@ -1,3 +1,4 @@
+
 #### Languages:
 <a href="https://dart.dev/" target="_blank"><img align="left" alt="dart" width="24px" src="https://api.iconify.design/logos:dart.svg?height=24" /></a>
 <a href="https://kotlinlang.org/" target="_blank"><img align="left" alt="kotlin" width="24px" src="https://api.iconify.design/logos:kotlin-icon.svg?height=24" /></a>
@@ -22,7 +23,9 @@
 
 ---
 
-<br/>
 <div align="center">
+  <img src="https://wakatime.com/badge/user/7645afff-1421-4a10-9384-06433a0c3995.svg"/>
+  <br/>
+  <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jaespr&layout=compact&hide_border=false&bg_color=FFF381&title_color=383838&text_color=383838&custom_title=Coding%20Activity%20Breakdown%20(Last%207%20Days)"/>
  </div>
