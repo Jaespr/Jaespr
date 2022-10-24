@@ -5,6 +5,7 @@
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="python" width="24px" src="https://api.iconify.design/logos:python.svg?height=24" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="typescript" width="24px" src="https://api.iconify.design/logos:typescript-icon.svg?height=24" /></a>
 
+
 <br />
 
 #### Tools and Frameworks:
